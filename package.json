@@ -39,5 +39,10 @@
         "^1.0.0": "consumeStatusBar"
       }
     }
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "git@github.com:emilkholod/atom-set-indent.git",
+    "sha": "3d74f890d3dff11015255695779e86f9ed5b3ad6"
   }
 }
